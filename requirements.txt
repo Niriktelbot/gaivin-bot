@@ -1,0 +1,7 @@
+aiogram==2.22.1
+loguru==0.6.0
+SimpleQiwi==0.7
+bs4==0.0.1
+timedelta==2020.12.3
+emoji==2.0.0
+qiwi==0.0.1
